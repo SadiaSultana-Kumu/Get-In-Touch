@@ -1,0 +1,23 @@
+.user-container{
+    display: flex;
+}
+
+.users-container{
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+.connection-summery{
+    width: 50%;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 20px;
+    display: flex;
+    border-bottom: 1px solid rgb(164, 189, 235);
+    box-shadow: 5px 5px 10px rgb(164, 189, 235);
+    border-radius: 20px;
+    padding-left: 30px;
+    color: rgb(99, 159, 238);
+}
